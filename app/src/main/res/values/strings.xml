@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GroupitAll</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_message">Welcome to GroupitAll</string>
+    <string name="enter_number">Enter your phone number</string>
+    <string name="or_text">or</string>
+    <string name="enter_email">Enter your email address</string>
+    <string name="verification">A verification code will be sent to your phone or email.</string>
+    <string name="continue1">Continue</string>
+    <string name="title_activity_verification">Verification</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="create_new_groups">Create New Groups</string>
+    <string name="enter_verification">Enter Your Verification Code:</string>
+</resources>
